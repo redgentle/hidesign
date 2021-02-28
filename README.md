@@ -5,3 +5,7 @@
 
 
 https://redgentle.github.io/hidesign/intro.html
+
+
+특이사항:
+원래 글씨가 써져야되는데 안되넹;;
